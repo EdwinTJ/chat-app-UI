@@ -2,7 +2,10 @@
 
 This project is a chat app where you can enter a room to chat with users. In this app, you must enter a name and a room ID. Where the room Id creates a room that multiple users can access.
 
+## Front End
+
 This app has the front end created in ReactJS. It consists in a home page where you can join a chat by typing a name and a room. Then it has a chat where it displays and sends messages.
+[Front End](https://github.com/EdwinTJ/chat-app-UI)
 
 ## Server Side
 
@@ -10,3 +13,7 @@ The back-end of this project is created by NodeJS nd has the dependecies of cors
 
 The app uses socket.io to handle the real-time bi-directional data. This handle the send of data.
 [Server Side](https://github.com/EdwinTJ/chat-app-server).
+
+## Hosting
+
+The Back End his hosted in Heroku. the Front End is hosted in netlify
